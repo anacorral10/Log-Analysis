@@ -1,4 +1,4 @@
-# Logs Analysis Project - Udacity Full Stack Web Developer Nanodegree
+# Log Analysis Project - Udacity Full Stack Web Developer Nanodegree
 
 ## Overview 
 
